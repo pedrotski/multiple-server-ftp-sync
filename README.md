@@ -42,7 +42,7 @@ sync-ftp  --dir /path/to/file/to/upload/ --list /path/to/server/list/list.csv
 
 ## Built With
 
-* NodeJS
+* Node.js 22.23.4+ on the 22.x line, 24.22.1+ on 24.x, or 26.12.1+ on 26.x. The `.nvmrc` selects 22.23.4 for this checkout (`nvm install && nvm use`).
 
 
 ## Versioning
